@@ -1,1 +1,1 @@
-web: gunicorn interview_chatbot.wsgi:application
+web: gunicorn chatbot.wsgi:application
